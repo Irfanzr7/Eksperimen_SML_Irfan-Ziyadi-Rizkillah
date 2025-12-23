@@ -31,6 +31,3 @@ Setelah selesai, file `weather_preprocessing/seattle_weather_processed.csv` akan
 
 Notebook contoh: `Preprocessing/Eksperimen_Irfan Ziyadi Rizkillah.ipynb`.
 Anda dapat menjalankannya menggunakan Jupyter Lab/Notebook atau VS Code dengan ekstensi notebook.
-
----
-Jika Anda ingin saya juga menambahkan badge CI/pipelines atau menyiapkan environment file (`environment.yml`), beri tahu saya.
